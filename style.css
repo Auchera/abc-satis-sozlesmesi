@@ -1,0 +1,72 @@
+body {
+    padding: 31px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+
+#confirm2 {
+    margin-left: 3px;
+}
+    
+
+#kisiel_bilgiler {
+  #guvenlik_id {
+    margin-left: 25px;
+    margin-bottom: 5px;
+  }
+
+  #name {
+    margin-left: 124px;
+    margin-bottom: 5px;
+  }
+
+  #lastname {
+    margin-left: 104px;
+    margin-bottom: 5px;
+  }
+
+  #age {
+    margin-left: 121px;
+    margin-bottom: 5px;
+  }
+
+  #mail_adress {
+    margin-left: 68px;
+    margin-bottom: 5px;
+  }
+
+  #photo {
+    margin-left: 56px;
+    margin-bottom: 5px;
+  }
+}
+
+#diger_bilgiler {
+  #date {
+    margin-left: 25px;
+  }
+}
+
+  #sektor_deneyimi {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  #experience_all {
+    margin-left: 45px;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+#program_dilleri {
+    display: flex;
+    margin-top: 15px;
+}
+
+ #program_dilleri2 {
+    margin-left: 30px;
+ }
